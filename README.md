@@ -30,3 +30,5 @@ Before proceeding, please ensure you have the following software installed on yo
 - Git command line tools
 
 ### Useful links
+Clone the frontend of this application from - https://github.com/NazeeshaPattan/messenger-ui
+
